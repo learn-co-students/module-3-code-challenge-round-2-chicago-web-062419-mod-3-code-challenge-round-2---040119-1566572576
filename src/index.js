@@ -64,7 +64,7 @@ beerList.addEventListener('click', () => {
   } 
 })
 
-post fetch
+// post fetch
 
 beerBtn.addEventListener('click', postNewDescription)
 
